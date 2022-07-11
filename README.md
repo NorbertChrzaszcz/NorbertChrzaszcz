@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NorbertChrzaszcz
+- 👀 I’m interested in quality assurance of products.
+- 🌱 I’m currently learning Python, Playwright and Postman.
+- 📫 How to reach me: norbert.chrzaszcz1@gmail.com
